@@ -1,2 +1,2 @@
-# alvinjoeshar
-A Half-day Statistician.
+# dataquadrant
+
