@@ -1,4 +1,4 @@
-[ Hi! this is my first Github.io project ]
+[ Hi! this is my first Github.io project ]✌️😆
 
 Figure below exhibits the relationship between the real economy and financial market. The velocity of Emerging Countries (EM) financial market growth outrun the real economy, which may indicate bubble and led our economy into another crash. In my opinion, this should be a warning for the authorities to make-up better transmission.
 
