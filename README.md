@@ -3,4 +3,5 @@ Hi! this is my first Github.io project. Figure below exhibits the relationship b
 ![image](https://raw.githubusercontent.com/alvinjoeshar/datalab/master/Market%20Cap.%20to%20GDP%20per%20Capita%20US%20%26%20ASEAN%20%2B5.gif)
 
 Contacts: twitter.com/leejoeshar or alvinjoeshar@gmx.us
+
 Copyright alvinjoeshar (C) 2020
